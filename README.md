@@ -70,8 +70,8 @@ This project is licensed under the MIT License.
 
 If you have any questions or feedback, please feel free to contact the project maintainers:
 
-- Your Name: Gasasira Joshua
-- Your Email: gasasiraj013@oulook.com
+- Gasasira Joshua
+- gasasiraj013@oulook.com
 - Project Repository: [GitHub Repository](https://github.com/Ghasasira/shopifyy)
 
 Thank you for using Shopifyy! We hope it provides a delightful shopping experience for your users.
